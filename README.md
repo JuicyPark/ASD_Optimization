@@ -4,7 +4,7 @@
 
 ## Study
 
-- [렌더링파이프라인](https://github.com/JuicyPark/ASD_Optimization/Study/RenderingPipeline)
+- [렌더링파이프라인](https://github.com/JuicyPark/ASD_Optimization/Study/RenderingPipeline.md)
 
 
 
