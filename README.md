@@ -8,6 +8,7 @@
 - [필레이트](https://github.com/JuicyPark/ASD_Optimization/blob/master/Study/Fillrate.md)
 - [감마vs리니어](https://github.com/JuicyPark/ASD_Optimization/blob/master/Study/GammaVsLinear.md)
 - [드로우콜](https://github.com/JuicyPark/ASD_Optimization/blob/master/Study/DrawCall.md)
+- [컬링](https://github.com/JuicyPark/ASD_Optimization/blob/master/Study/Culling.md)
 
 ***
 
@@ -39,5 +40,5 @@ BlankBox와 Dot만 찍어놓은 화면인데 Batches가 33이나 된다. 분명 
 
 왠지 둘의 Order in Layer가 겹쳐서 그렇지 않을까 생각했는데 예상이 적중하였다!
 
-![image](https://user-images.githubusercontent.com/31693348/109478243-572ded00-7abc-11eb-90f9-b0d685997fa8.png)
+![](https://user-images.githubusercontent.com/31693348/109478243-572ded00-7abc-11eb-90f9-b0d685997fa8.png)
 
