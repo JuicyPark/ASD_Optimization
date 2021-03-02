@@ -34,11 +34,9 @@ BlankBox와 Dot만 찍어놓은 화면인데 Batches가 33이나 된다. 분명 
 
 따로 찍어보면 예상과같이 Batches가 1씩 찍힌다.
 
-문제는 생각보다 쉽게 해결했다.
-
 ![image](https://user-images.githubusercontent.com/31693348/109478095-2948a880-7abc-11eb-8494-5561e135bf05.png)
 
-왠지 둘의 Order in Layer가 겹쳐서 그렇지 않을까 생각했는데 예상이 적중하였다!
+문제는 생각보다 쉽게 해결했다. 왠지 둘의 Order in Layer가 겹쳐서 그렇지 않을까 생각했는데 예상이 적중하였다!
 
 ![](https://user-images.githubusercontent.com/31693348/109478243-572ded00-7abc-11eb-90f9-b0d685997fa8.png)
 
